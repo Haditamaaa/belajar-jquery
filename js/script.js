@@ -90,4 +90,10 @@ $("document").ready(function () {
       marginBottom: 10,
     });
   });
+
+  // slick
+  $(".your-class").slick();
+
+  // popup
+  $("#my_popup").popup();
 });
